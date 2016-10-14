@@ -7,10 +7,10 @@ p {
     width: 170px;
 }
 span.dropcaps {
-    color: #903;
-    float: left;
-    font-family: Georgia;
-    font-size: 75px;
+    color: #689;
+    float: none;
+    font-family: cursive;
+    font-size: 95px;
     line-height: 60px;
     padding: 4px, 8px, 0px, 3px;
 }
